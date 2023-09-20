@@ -10,5 +10,5 @@ def hello_world():
 
 # Run the app if this script is executed
 if __name__ == '__main__':
-    custom_port = 8080
+    custom_port = 5000
     app.run(port=custom_port)
